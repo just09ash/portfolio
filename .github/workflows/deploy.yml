@@ -12,18 +12,18 @@ jobs:
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Setup Node
         uses: actions/setup-node@v3
         with:
-          node-version: 20
+          node-version: 18
 
       - name: Install dependencies
         uses: bahmutov/npm-install@v1
 
       - name: Build project
-        run: npm run build
+        run: npm install
 
       - name: Upload production-ready build files
         uses: actions/upload-artifact@v3
