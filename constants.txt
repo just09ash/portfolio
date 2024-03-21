@@ -1,0 +1,80 @@
+**Introduction : 
+Image
+Arpit Katiyar
+Aspiring Software Developer
+
+I am Arpit Katiyar in the third year of BCA at Tilak Maharashtra Vidyapeeth.
+Proficient in C# Winform, C, C++, C#, Frontend - HTML CSS JavaScript, REACT, Tailwind, and more.
+Eight months of experience as a Professional IT Lecturer at Aptech Computer Education.
+Instructed BCA students in various IT Software Technology courses.
+Strong foundation in Object-Oriented Programming (OOP) concepts.
+Experienced in development environments like Visual Studio Code and Visual Studio.
+Demonstrated exceptional attention to detail in teaching and collaborated effectively in a team environment.
+
+
+**Work Experience : 
+Professional IT Lecturer (BCA)
+Aptech Computer Education
+March 2023 - November 2023
+(9 Months) 
+Proficient IT Trainer and Lecturer, instructing BCA
+students in IT Software Technology courses.
+Taught a range of programming languages, such as C,
+C++, C#, PHP, jQuery, HTML, CSS, JavaScript,
+Bootstrap, OOP concepts, and more.
+Showed exceptional attention to detail in teaching.
+Collaborated effectively within a team environment.
+
+**Skills :
+Programming Languages: C, C++, C#
+Frontend:  HTML, CSS, JavaScript
+CSS Library:  Bootstrap, Tailwind
+FrameWork: REACT
+JavaScript Library: JQuery, THREE.js (for 3D Web Development)
+Proficient in C# Winform
+Object-Oriented Programming (OOP): concepts are
+well-understood and effectively applied.
+Development Environments: Visual Studio Code, Visual
+Studio
+
+**Qualification : 
+SSC - Little Flower High School
+(Secondary School Certificate)
+Maharashtra Board
+2017 - 60%
+
+HSC - Science Stream
+(Higher Secondary Certificate)
+Maharashtra Board
+2019 - 62%
+
+BCA
+(Bachelor of Computer
+Applications)
+Tilak Maharashtra Vidyapeeth
+Third Year (Currently Pursuing)
+
+**Personal Details
+Date of Birth: 15 August 2000
+Gender: Male
+Nationality: Bharatiya
+Marital Status: Unmarried
+Languages Known:
+English (Fluent)
+Hindi (Fluent)
+
+**Contact Details
++91 9372556822
+arpitkatiyar108@gmail.com
+Vishwanath Bunglow,
+Plot No. 42, RSC 11,
+Sawarkar Nagar, Thane
+(W), Maharashtra 400606
+
+
+
+
+
+
+
+
